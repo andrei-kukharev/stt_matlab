@@ -1,5 +1,5 @@
 %{ 
-The study of the STT-effect with a numerical solution of the Landau–Lifshitz–Gilbert-Slonczewski-Berger equation.
+The study of the STT-effect using the Landau–Lifshitz–Gilbert-Slonczewski-Berger equation.
 %}
 
 function tst
